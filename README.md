@@ -22,3 +22,6 @@ seller_type
 transmission
 
 Owner
+# Use
+
+Linear & Non-Linear Regression
