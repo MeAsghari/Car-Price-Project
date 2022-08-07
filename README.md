@@ -7,21 +7,21 @@ This dataset contains information about used cars
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 The columns in the given dataset are as follows:
 
-name
+name : Name of the cars
 
-year
+year : Year of the car when it was bought
 
-selling_price
+selling_price : Price at which the car is being sold
 
-km_driven
+km_driven : Number of Kilometres the car is driven
 
-fuel
+fuel : Fuel type of car (petrol / diesel / CNG / LPG / electric)
 
-seller_type
+seller_type : Tells if a Seller is Individual or a Dealer
 
-transmission
+transmission : Gear transmission of the car (Automatic/Manual)
 
-Owner
+Owner : Number of previous owners of the car
 # Use
 
 Linear & Non-Linear Regression
